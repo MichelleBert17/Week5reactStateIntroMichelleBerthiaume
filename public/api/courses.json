@@ -1,0 +1,160 @@
+[
+  {
+    "trimester": "1",
+    "courseNumber": "CS1100",
+    "courseName": "Introduction to Procedural Programming",
+    "semesterCredits": "4",
+    "totalClockHours": "37.5",
+    "prerequisite": "none"
+  },
+  {
+    "trimester": "1",
+    "courseNumber": "CS1200",
+    "courseName": "CS1200 Introduction to Object-Oriented Programming",
+    "semesterCredits": "4",
+    "totalClockHours": "30",
+    "prerequisite": "none"
+  },
+  {
+    "trimester": "1",
+    "courseNumber": "CS1300",
+    "courseName": "Introduction to Front-End Web Development",
+    "semesterCredits": "4",
+    "totalClockHours": "50", 
+    "prerequisite": "none"
+  },
+  {
+    "trimester": "1",
+    "courseNumber": "SS1000",
+    "courseName": "Student Success",
+    "semesterCredits": "2",
+    "totalClockHours": "60",
+    "prerequisite": "none"
+  },
+
+  {
+    "trimester": "2",
+    "courseNumber": "CM1100",
+    "courseName": "Communications I",
+    "semesterCredits": "2",
+    "totalClockHours": "37.5",
+    "prerequisite": "none"
+  },
+  {
+    "trimester": "2",
+    "courseNumber": "CS1150",
+    "courseName": "Intermediate Procedural Programming",
+    "semesterCredits": "4",
+    "totalClockHours": "20",
+    "prerequisite": "CS1100"
+  },
+  {
+    "trimester": "2",
+    "courseNumber": "CS1400",
+    "courseName": "Introduction to Back-End Web Development",
+    "semesterCredits": "4",
+    "totalClockHours": "50",
+    "prerequisite": "CS1200"
+  },
+  {
+    "trimester": "2",
+    "courseNumber": "CS1500",
+    "courseName": "Data Structures and Algorithms",
+    "semesterCredits": "4",
+    "totalClockHours": "30",
+    "prerequisite": "CS1200"
+  },
+
+  {
+    "trimester": "3",
+    "courseNumber": "CM1200",
+    "courseName": "Communications II",
+    "semesterCredits": "2",
+    "totalClockHours": "45", 
+    "prerequisite": "CM1100"
+  },
+  {
+    "trimester": "3",
+    "courseNumber": "WD1150",
+    "courseName": "Foundational Front-End Development",
+    "semesterCredits": "4",
+    "totalClockHours": "22.5",
+    "prerequisite": "CS1300"
+  },
+  {
+    "trimester": "3",
+    "courseNumber": "WD1250",
+    "courseName": "Dynamic Web Development",
+    "semesterCredits": "4",
+    "totalClockHours": "30",
+    "prerequisite": "CS1200, CS1300, WD1150"
+  },
+  {
+    "trimester": "3",
+    "courseNumber": "WD1350",
+    "courseName": "Foundational Back-End Development",
+    "semesterCredits": "4",
+    "totalClockHours": "22.5",
+    "prerequisite": "CS1200, CS1300, CS1400"
+  },
+
+  {
+    "trimester": "4",
+    "courseNumber": "PD1100",
+    "courseName": "Career Development",
+    "semesterCredits": "2",
+    "totalClockHours": "45",
+    "prerequisite": "CM1100, CM1200"
+  },
+  {
+    "trimester": "4",
+    "courseNumber": "WD1450",
+    "courseName": "Cloud Computing",
+    "semesterCredits": "4",
+    "totalClockHours": "15",
+    "prerequisite": "CS1200, CS1300, CS1400, WD1350"
+  },
+  {
+    "trimester": "4",
+    "courseNumber": "WD2100",
+    "courseName": "Front-End Frameworks",
+    "semesterCredits": "4",
+    "totalClockHours": "45",
+    "prerequisite": "CS1200, CS1300, WD1150, WD1250"
+  },
+  {
+    "trimester": "4",
+    "courseNumber": "WD2200",
+    "courseName": "Back-End Frameworks",
+    "semesterCredits": "4",
+    "totalClockHours": "17.5",
+    "prerequisite": "CS1200, CS1300, CS1400, WD1150, WD1250, WD1350"
+  },
+ 
+
+  {
+    "trimester": "5",
+    "courseNumber": "WD2300",
+    "courseName": "Full-stack Development",
+    "semesterCredits": "4",
+    "totalClockHours": "35",
+    "prerequisite": "CS1200, CS1300, CS1400, WD1150, WD1250, WD1350, WD1450, WD2100"
+  },
+  {
+    "trimester": "5",
+    "courseNumber": "WD2400",
+    "courseName": "Mobile Application Development",
+    "semesterCredits": "4",
+    "totalClockHours": "60",
+    "prerequisite": "CS1200, CS1300, WD1150, WD1250"
+  },
+  {
+    "trimester": "5",
+    "courseNumber": "CS2900",
+    "courseName": "Capstone",
+    "semesterCredits": "6",
+    "totalClockHours": "40",
+    "prerequisite": "All courses must be successfully complete prior to taking this course."
+  }
+  
+]
